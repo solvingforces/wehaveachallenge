@@ -1,0 +1,17 @@
+# We Have a Challenge
+
+> A Field Guide for Solving Problems in Challenging Times, by Gijs Verrest and Jens Refflinghaus (Solving Forces). The book is in development. Readers can follow its progress through a free newsletter every two weeks, in English, German or Dutch.
+
+The book is a practical guide for teams dealing with firefighting, recurring problems and ad-hoc actions: finding clarity, solving problems together and turning decisions into action. The authors are solution designers, facilitators and trainers with more than 45 years of combined problem-solving experience across industries.
+
+## Pages
+
+- [Landing page (English)](https://www.wehaveachallenge.com/): about the book and the authors; newsletter sign-up
+- [Landing page (German)](https://www.wehaveachallenge.com/?lang=de)
+- [Landing page (Dutch)](https://www.wehaveachallenge.com/?lang=nl)
+- [Legal notice](https://www.wehaveachallenge.com/imprint-en.html)
+
+## Authors
+
+- Gijs Verrest – Solving Forces Netherlands, https://www.solvingforces.com/
+- Jens Refflinghaus – Solving Forces Germany
