@@ -6,10 +6,10 @@ The book is a practical guide for teams dealing with firefighting, recurring pro
 
 ## Pages
 
-- [Landing page (English)](https://www.wehaveachallenge.com/): about the book and the authors; newsletter sign-up
-- [Landing page (German)](https://www.wehaveachallenge.com/?lang=de)
-- [Landing page (Dutch)](https://www.wehaveachallenge.com/?lang=nl)
-- [Legal notice](https://www.wehaveachallenge.com/imprint-en.html)
+- [Landing page (English)](https://wehaveachallenge.com/): about the book and the authors; newsletter sign-up
+- [Landing page (German)](https://wehaveachallenge.com/?lang=de)
+- [Landing page (Dutch)](https://wehaveachallenge.com/?lang=nl)
+- [Legal notice](https://wehaveachallenge.com/imprint-en.html)
 
 ## Authors
 

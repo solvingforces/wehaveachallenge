@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.wehaveachallenge.com/</loc>
+    <loc>https://wehaveachallenge.com/</loc>
     <lastmod>2026-09-20</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.wehaveachallenge.com/"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://www.wehaveachallenge.com/?lang=de"/>
-    <xhtml:link rel="alternate" hreflang="nl" href="https://www.wehaveachallenge.com/?lang=nl"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.wehaveachallenge.com/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://wehaveachallenge.com/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://wehaveachallenge.com/?lang=de"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://wehaveachallenge.com/?lang=nl"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://wehaveachallenge.com/"/>
   </url>
   <url>
-    <loc>https://www.wehaveachallenge.com/?lang=de</loc>
+    <loc>https://wehaveachallenge.com/?lang=de</loc>
     <lastmod>2026-09-20</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.wehaveachallenge.com/"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://www.wehaveachallenge.com/?lang=de"/>
-    <xhtml:link rel="alternate" hreflang="nl" href="https://www.wehaveachallenge.com/?lang=nl"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.wehaveachallenge.com/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://wehaveachallenge.com/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://wehaveachallenge.com/?lang=de"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://wehaveachallenge.com/?lang=nl"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://wehaveachallenge.com/"/>
   </url>
   <url>
-    <loc>https://www.wehaveachallenge.com/?lang=nl</loc>
+    <loc>https://wehaveachallenge.com/?lang=nl</loc>
     <lastmod>2026-09-20</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.wehaveachallenge.com/"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://www.wehaveachallenge.com/?lang=de"/>
-    <xhtml:link rel="alternate" hreflang="nl" href="https://www.wehaveachallenge.com/?lang=nl"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.wehaveachallenge.com/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://wehaveachallenge.com/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://wehaveachallenge.com/?lang=de"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://wehaveachallenge.com/?lang=nl"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://wehaveachallenge.com/"/>
   </url>
 </urlset>
